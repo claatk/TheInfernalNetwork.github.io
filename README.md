@@ -1,5 +1,6 @@
 # TheInfernalNetwork.github.io
 Home of the curatorial project, The Infernal Network. 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,40 +14,26 @@ Home of the curatorial project, The Infernal Network.
       color: #f4f4f4;
       margin: 0;
       padding: 0;
-    }
-
-    header {
+    } header {
       background-color: #1a1a1a;
       padding: 2rem;
       text-align: center;
-    }
-
-    header h1 {
+    } header h1 {
       margin: 0;
       font-size: 2.5rem;
       letter-spacing: 1px;
-    }
-
-    main {
+    } main {
       padding: 2rem;
       max-width: 800px;
       margin: auto;
-    }
-
-    section {
+    } section {
       margin-bottom: 2rem;
-    }
-
-    h2 {
+    } h2 {
       color: #ff4444;
-    }
-
-    a {
+    } a {
       color: #ff9999;
       text-decoration: underline;
-    }
-
-    footer {
+    } footer {
       text-align: center;
       padding: 1rem;
       font-size: 0.9rem;
